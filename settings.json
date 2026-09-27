@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "Emeraldteam.aternos.me:56996",
+    "port": 56996,
     "version": "",
     "try-creative": false
   },
