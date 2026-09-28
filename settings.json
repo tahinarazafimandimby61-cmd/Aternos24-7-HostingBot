@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "JoanMiraho",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Emeraldteam.aternos.me:56996",
+    "ip": "Emeraldteam.aternos.me",
     "port": 56996,
     "version": "",
     "try-creative": false
